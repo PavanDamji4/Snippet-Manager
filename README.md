@@ -30,7 +30,7 @@
 
 ### 🔐 Authentication  
 <p align="center">
-  <img src="./frontend/assets/login.jpeg" alt="Login Page" width="400">
+  <img src="./frontend/assets/login.jpeg" alt="Login Page" width="600">
 </p>  
 
 ### 📂 All Snippets  
