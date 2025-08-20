@@ -1,10 +1,6 @@
 # 🚀 Code Snippet Manager  
 
 <p align="center">
-  <img src="assets/banner.png" alt="Project Banner" width="800">
-</p>  
-
-<p align="center">
   <b>A Modern Full-Stack Web Application for Managing Code Snippets</b>  
 </p>
 
@@ -52,6 +48,11 @@
 <p align="center">
   <img src="./frontend/assets/statistics.jpeg" alt="Statistics Page" width="600">
 </p>  
+
+### 📊 Code  
+<p align="center">
+  <img src="./frontend/assets/code.jpeg" alt="Statistics Page" width="600">
+</p> 
 
  
 
