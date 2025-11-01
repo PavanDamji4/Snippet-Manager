@@ -18,7 +18,9 @@
 - **Pavan Damji** *(Leader)*  
 - Anurag Mane  
 - Kaushik Hatte  
-- Ganesh Hibare  
+- Ganesh Hibare
+- Om Babar
+- Abhijeet Jathav
 
 ---
 
